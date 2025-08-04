@@ -1,6 +1,6 @@
 # Estructura de Carpetas del Proyecto
 
-java-backend-full-bootcamp/
+```bash
 ├── 01-lambdas-streams/
 │   ├── README.md
 │   ├── src/
@@ -23,6 +23,7 @@ java-backend-full-bootcamp/
     └── scripts/
         ├── deploy.sh
         └── setup-ec2.md
+```
 
 # 🚀 Java Backend Bootcamp - Cronograma de 6 Semanas
 
